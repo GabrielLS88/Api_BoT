@@ -1,0 +1,126 @@
+{
+    "status": 0,
+    "erro_code": 1,
+    "erro_inf": "",
+    "erro_desc": "A consulta nao retornou resultados",
+    "erro_detail": "",
+    "result": ""
+}
+
+
+{
+    "status": 1,
+    "erro_code": "",
+    "erro_inf": "",
+    "erro_desc": "",
+    "erro_detail": "",
+    "result": [
+        {
+            "Codigo": "46440",
+            "Tipo": "F",
+            "CNPJ_CNPF": "03408871507",
+            "Nome": "ANTONIO CARLOS PINHEIRO SANTOS",
+            "Endereco": "RUA A MULTIRAO",
+            "Numero": "74",
+            "Complemento": "CASA DE TONY CANTOR",
+            "Bairro": "SANTA",
+            "Cidade": "Serrinha",
+            "Distrito": "",
+            "UF": "BA",
+            "CEP": "48700000",
+            "TelComercial": "75999998789",
+            "TelResidencial": "75991733408",
+            "TelCelular": "75991736941",
+            "BcoCobr": "33",
+            "RG_IE": "1014054646",
+            "Nascimento": "1985-06-12",
+            "CodCobr": "",
+            "Cobranca": "R",
+            "TipoImpressao": "C",
+            "DiaCobr": "14",
+            "DiasProtesto": "0",
+            "Sigla": "ANTONIO",
+            "Cobr_Endereco": "RUA A MULTIRAO",
+            "Cobr_Complemento": "CASA DE TONY CANTOR",
+            "Cobr_Bairro": "SANTA",
+            "Cobr_Cidade": "Serrinha",
+            "Cobr_UF": "BA",
+            "Cobr_CEP": "48700000",
+            "Bloqueavel": "S",
+            "Inclusao": "2021-09-15",
+            "usuario": "graciane.pereira",
+            "Observacoes": "Vencimento dia 14",
+            "MapsMarkLat": "0.0000000000000",
+            "MapsMarkLng": "0.0000000000000",
+            "Grupo": "3",
+            "Situacao": "C",
+            "Email": "tonnysanctos01@hotmail.com",
+            "AvisoPagamento": "S"
+        }
+    ]
+}
+
+
+{
+    "status": 1,
+    "error_code": "",
+    "error_description": "",
+    "result": [
+        {
+            "id": 4325535,
+            "account_number": 3,
+            "due_date": "2023-08-14",
+            "document_number": 2272656,
+            "bank_number": 172360,
+            "charge_type": "with registry",
+            "historic": "Documento a Receber",
+            "comments": "",
+            "source": "Billing",
+            "bank": 104,
+            "value_init": 69.9,
+            "value_interest": 2,
+            "value_fine": 1.39,
+            "value_discount": 0,
+            "value_up": 73.29,
+            "address": {
+                "street": "RUA A MULTIRAO",
+                "number": 74,
+                "complement": "CASA DE TONY CANTOR",
+                "neighborhood": "SANTA",
+                "city": "Serrinha",
+                "state": "BA",
+                "district": "",
+                "zipcode": "48700000",
+                "country": "Brasil"
+            }
+        },
+        {
+            "id": 4399216,
+            "account_number": 3,
+            "due_date": "2023-09-14",
+            "document_number": 2307481,
+            "bank_number": 63169,
+            "charge_type": "with registry",
+            "historic": "Documento a Receber",
+            "comments": "",
+            "source": "Billing",
+            "bank": 33,
+            "value_init": 60.89,
+            "value_interest": 1.38,
+            "value_fine": 1.22,
+            "value_discount": 0,
+            "value_up": 63.49,
+            "address": {
+                "street": "RUA A MULTIRAO",
+                "number": 74,
+                "complement": "CASA DE TONY CANTOR",
+                "neighborhood": "SANTA",
+                "city": "Serrinha",
+                "state": "BA",
+                "district": "",
+                "zipcode": "48700000",
+                "country": "Brasil"
+            }
+        }
+    ]
+}
